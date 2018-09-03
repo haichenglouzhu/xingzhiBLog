@@ -1,0 +1,12 @@
+{
+    "name": "xingzhilong/xingzhilong-blog",
+    "description": "this is my test blog",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingzhilong",
+            "email": "339191949@qq.com"
+        }
+    ],
+    "require": {}
+}
