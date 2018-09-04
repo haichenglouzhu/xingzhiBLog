@@ -6,5 +6,5 @@ php:
 install:
   - composer install
 script:
-  - vendor/phpunit/phpunit/phpunit tests/BLogTest.php
+  - ./vendor/phpunit/phpunit/phpunit --configuration phpunit.xml
 
