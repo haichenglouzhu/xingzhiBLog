@@ -6,5 +6,5 @@ php:
 install:
   - composer install
 script:
-  - phpunit --configuration phpunit.xml
+  - bin/phpunit --configuration phpunit.xml
 
