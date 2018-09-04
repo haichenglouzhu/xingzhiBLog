@@ -16,9 +16,6 @@
         "classmap": [
            "config/"
         ],
-        "files": [
-          "app/Helpers/Functions.php"
-        ],
         "psr-4": {
             "BLog\\": "src/",
             "Core\\": "../Core/"
